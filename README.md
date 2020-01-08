@@ -1,6 +1,10 @@
 # WeChatRedEnvelopeHelper
 微信红包助手
 
+# 百度云盘下载地址
+链接:https://pan.baidu.com/s/1-PpEtqDTzQ4_AdQiQSA5Og  
+密码:y0hh  
+
 # Version 1.0.2
 1、支持微信版本 7.0.7、7.0.8、7.0.9、7.0.10 版本的红包接收  
 2、通过Android-AccessibilityService模拟用户点击实现  
