@@ -5,6 +5,11 @@
 链接:https://pan.baidu.com/s/1-PpEtqDTzQ4_AdQiQSA5Og  
 密码:y0hh  
 
+手机使用及说明：  
+1、OPPO R11s在微信7.0.10版本使用中，停留在微信-消息列表界面系统不反馈TYPE_VIEW_TEXT_CHANGED|TYPE_WINDOW_CONTENT_CHANGED事件，故发接收到红包消息不能打开，其他界面正常使用  
+2、华为meta系列手机在手机桌面接收不到通知消息，故在手机桌面不能接收红包，在微信界面可以辅助抢红包  
+3、荣耀系列手机反馈异常，没有荣耀手机没法测试  
+
 # Version 1.0.2
 1、支持微信版本 7.0.7、7.0.8、7.0.9、7.0.10 版本的红包接收  
 2、通过Android-AccessibilityService模拟用户点击实现  
