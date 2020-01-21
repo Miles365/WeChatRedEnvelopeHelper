@@ -13,6 +13,8 @@
 a）小米8SE、华为荣耀20i、华为Meta20在手机桌面不能使用，打开微信可以使用  
 b）OPPO R11s（7.0.10版本）在消息列表界面系统不反馈TYPE_VIEW_TEXT_CHANGED|TYPE_WINDOW_CONTENT_CHANGED异常
 
+# Version 1.0.4
+1、修复群组来红包消息不能打开的BUG  
 
 # Version 1.0.3
 1、新增群聊抢自己发送的红包  
