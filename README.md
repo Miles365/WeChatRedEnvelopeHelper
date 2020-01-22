@@ -7,8 +7,8 @@
 
 # 手机型号及使用的一些说明   
 * 在使用时一定要在辅助功能中找到 微信红包助手 这个服务，并将其打开，程序才能正常工作  
-a）小米8SE、华为荣耀20i、华为Meta20在手机桌面不能使用，打开微信可以使用  
-b）OPPO R11s 在消息列表界面系统不反馈TYPE_VIEW_TEXT_CHANGED|TYPE_WINDOW_CONTENT_CHANGED事件导致来红包消息程序没有响应
+* a）小米8SE、华为荣耀20i、华为Meta20在手机桌面不能使用，打开微信可以使用  
+* b）OPPO R11s 在消息列表界面系统不反馈TYPE_VIEW_TEXT_CHANGED|TYPE_WINDOW_CONTENT_CHANGED事件导致来红包消息程序没有响应
 
 
 # Version 1.0.4
