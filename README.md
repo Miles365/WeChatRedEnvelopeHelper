@@ -5,8 +5,9 @@
 
 ## 下载地址
 * 百度云盘
-* 链接:https://pan.baidu.com/s/1-PpEtqDTzQ4_AdQiQSA5Og
-* 密码:y0hh
+> 链接:https://pan.baidu.com/s/1-PpEtqDTzQ4_AdQiQSA5Og  密码:y0hh
+* QQ群
+> QQ群号码：51204902
 
 ## 手机型号及使用的一些说明
 * 在使用时一定要在辅助功能（无障碍）中找到 微信红包助手 这个服务，并将其打开，程序才能正常工作
